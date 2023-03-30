@@ -1,0 +1,41 @@
+#banner {
+    height: 450px;
+    width: 550px;
+    border: 10px solid #000000;
+    margin: 20px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+.principal {
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color:  red;
+}
+
+.tds {
+    background-color: purple;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.lab {
+    width: 50%;
+}
